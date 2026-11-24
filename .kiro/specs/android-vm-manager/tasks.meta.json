@@ -1,0 +1,1015 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Set up project structure and test tooling": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633632
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425642055
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425776271
+      }
+    ],
+    "2.1 Create core domain types and models": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633711
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425781219
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425860762
+      }
+    ],
+    "2.2 Implement `CompatibilityEvaluator`, `EngineCatalog`, and `RecommendedDefaults`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633764
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425865942
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425951780
+      }
+    ],
+    "3.1 Implement `ProfileDraft`, `ValidationIssue`, `ProfileValidator`, and `StartEligibility`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633794
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426119548
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426201458
+      }
+    ],
+    "4.1 Implement `VmEvent`, `VmTransition`, and `VmStateMachine`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633821
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425865979
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425952393
+      }
+    ],
+    "5.1 Implement `MediaFilter`, `StorageCheck`, `CopyProgress`, `StorageOverview`, `MediaPreflight`, and attach/detach helpers": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633847
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425866588
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425951469
+      }
+    ],
+    "6.1 Implement `ProfileSerializer` (Profile_Printer and parser)": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633873
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425867634
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425953407
+      }
+    ],
+    "6.2 Implement `VmRepository`, `FileVmRepository`, `MemoryVmRepository`, `LibrarySearch`, and `CloneNamer`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633903
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426120587
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426203727
+      }
+    ],
+    "7.1 Implement `LaunchSpec` and `LaunchSpecBuilder`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633929
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425867845
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425954102
+      }
+    ],
+    "7.3 Implement `ResourcePolicy`, `HostSignals`, `BatterySaver`, `CrossArchIndicator`, `NotificationText`, and `StatsOverlay`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633956
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425960062
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426026063
+      }
+    ],
+    "7.8 Implement `GestureTranslator`, `KeyMapper`, and `SpecialKeys`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425633994
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425960147
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426027088
+      }
+    ],
+    "7.11 Implement `StartFailure`, `FailureMessage`, `VmError`, and `LogRotator`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634021
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425961092
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426028087
+      }
+    ],
+    "8.1 Declare manifest entries and native binary layout": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634052
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425781770
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425860458
+      }
+    ],
+    "8.2 Implement `HostProbe`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634078
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425961792
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426025124
+      }
+    ],
+    "8.3 Implement `QmpClient`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634104
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425962419
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426025071
+      }
+    ],
+    "8.4 Implement `EngineSupervisor`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634131
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426121587
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426202862
+      }
+    ],
+    "8.5 Implement `VmForegroundService`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634161
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426122916
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426200699
+      }
+    ],
+    "8.6 Implement `RfbClient` and the `vm/display` texture": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634198
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426035288
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426111063
+      }
+    ],
+    "8.7 Implement `HostSignalMonitor`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634236
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426035427
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426109725
+      }
+    ],
+    "8.8 Implement `StorageAccess`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634263
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426035705
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426109044
+      }
+    ],
+    "8.9 Implement `DisplayMirror`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634288
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426123141
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426204390
+      }
+    ],
+    "8.10 Register platform channels in `MainActivity`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634318
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426210961
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426401503
+      }
+    ],
+    "9.1 Define service interfaces, channel implementations, and fakes": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634352
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426402249
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426623291
+      }
+    ],
+    "9.2 Implement controller start and lifecycle operations": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634379
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426627984
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426848339
+      }
+    ],
+    "9.3 Implement controller library and media operations": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634405
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426852496
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428181323
+      }
+    ],
+    "9.4 Implement controller snapshots, host-signal handling, and diagnostics": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634431
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428185288
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428398642
+      }
+    ],
+    "10. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634457
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428404272
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428470090
+      }
+    ],
+    "11.1 Create app shell, routing, theme, and Riverpod providers": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634493
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428475400
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428689530
+      }
+    ],
+    "11.2 Implement the compatibility report screen": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634522
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428697352
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428913269
+      }
+    ],
+    "11.3 Implement the VM library screen": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634595
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428697404
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428913375
+      }
+    ],
+    "11.4 Implement the create and edit VM form": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634619
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428697451
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428913433
+      }
+    ],
+    "11.5 Implement media attach and storage overview screens": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634645
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428697829
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428913959
+      }
+    ],
+    "11.6 Implement the VM console": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634669
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428698264
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428914993
+      }
+    ],
+    "11.7 Implement the snapshots and logs screens": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634694
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428915594
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795429144646
+      }
+    ],
+    "12.1 Wire `main.dart` and the dependency graph": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634720
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795429148362
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795429346422
+      }
+    ],
+    "13. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425634746
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795429350870
+      },
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795429411362
+      }
+    ],
+    "5. Implement media and storage logic": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425951553
+      }
+    ],
+    "2. Implement domain models and compatibility evaluation": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425951811
+      }
+    ],
+    "4. Implement the VM lifecycle state machine": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795425952428
+      }
+    ],
+    "7. Implement launch, resource policy, input, and diagnostics logic": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426028125
+      }
+    ],
+    "3. Implement profile validation and start eligibility": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426201505
+      }
+    ],
+    "6. Implement serialization, persistence, and library logic": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426203781
+      }
+    ],
+    "8. Implement the Kotlin platform layer": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795426401643
+      }
+    ],
+    "9. Implement the Dart service layer and `VmManagerController`": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795428398675
+      }
+    ],
+    "11. Implement the user interface": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795429144742
+      }
+    ],
+    "12. Wire the application together": [
+      {
+        "executionId": "1361080f-0f29-4441-8cc7-e4206c7f9463",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795429346502
+      }
+    ],
+    "14.1 Fix media display name and the \"in place\" label": [
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795431929201
+      },
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795431934344
+      },
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795432111965
+      }
+    ],
+    "14.2 Add friendly engine-missing error and engine status check": [
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795431929345
+      },
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795432116813
+      },
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795432356658
+      }
+    ],
+    "14.3 Add QEMU Android build tooling and documentation": [
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795431929383
+      },
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795431935010
+      },
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795432111444
+      }
+    ],
+    "14. Post-release fixes and QEMU engine packaging": [
+      {
+        "executionId": "6e391f4c-4f9c-4a19-8581-09d97f3415e9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795432356751
+      }
+    ],
+    "15.1 Run and debug tools/build-qemu-android.sh on this Mac": [
+      {
+        "executionId": "bfeb9de4-ab5b-463d-915e-fc730717ba37",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795432826982
+      },
+      {
+        "executionId": "bfeb9de4-ab5b-463d-915e-fc730717ba37",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795432831977
+      },
+      {
+        "executionId": "bfeb9de4-ab5b-463d-915e-fc730717ba37",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795490357706
+      }
+    ],
+    "15. Build the QEMU engine for Android": [
+      {
+        "executionId": "bfeb9de4-ab5b-463d-915e-fc730717ba37",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795490357771
+      }
+    ],
+    "16.1 In-place media via All-files access": [
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795491477888
+      },
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795491483484
+      },
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795491782763
+      }
+    ],
+    "16.2 UEFI firmware and QEMU share directory": [
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795491477935
+      },
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795491788187
+      },
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795492325443
+      }
+    ],
+    "16.3 Architecture mismatch hint": [
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795491477969
+      },
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795492330897
+      },
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795492446312
+      }
+    ],
+    "16.4 Checkpoint: analysis, tests, builds, and device install": [
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795491478001
+      },
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795492452223
+      },
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795492626843
+      }
+    ],
+    "16. Device boot fixes": [
+      {
+        "executionId": "12387a48-295c-4404-ae7f-94dbb1f19885",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795492626981
+      }
+    ],
+    "17.1 Fix the coroutine/longjmp crash in the QEMU build": [
+      {
+        "executionId": "96f3b78b-0e77-4aa7-aee4-970f7269f0a9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795492994522
+      },
+      {
+        "executionId": "96f3b78b-0e77-4aa7-aee4-970f7269f0a9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795493001600
+      },
+      {
+        "executionId": "96f3b78b-0e77-4aa7-aee4-970f7269f0a9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795493654690
+      }
+    ],
+    "17.2 Device verification": [
+      {
+        "executionId": "96f3b78b-0e77-4aa7-aee4-970f7269f0a9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795492994616
+      },
+      {
+        "executionId": "96f3b78b-0e77-4aa7-aee4-970f7269f0a9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795493660180
+      },
+      {
+        "executionId": "96f3b78b-0e77-4aa7-aee4-970f7269f0a9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795494606692
+      }
+    ],
+    "17. Fix QEMU SIGILL crash on Android": [
+      {
+        "executionId": "96f3b78b-0e77-4aa7-aee4-970f7269f0a9",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795494606753
+      }
+    ],
+    "18.1 Fix the rfb-connect threading bug and verify on the device": [
+      {
+        "executionId": "a00ea435-7318-43ea-bc74-7924871b796d",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795495209188
+      },
+      {
+        "executionId": "a00ea435-7318-43ea-bc74-7924871b796d",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795495214374
+      },
+      {
+        "executionId": "9d30d0fd-3f72-4c13-83ca-da746a2c2dd3",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795495620750
+      }
+    ],
+    "18. Fix the VM console display": [
+      {
+        "executionId": "9d30d0fd-3f72-4c13-83ca-da746a2c2dd3",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795495620836
+      }
+    ],
+    "19.1 Attach ISO media as a virtio-scsi CD-ROM instead of usb-storage": [
+      {
+        "executionId": "a5139a24-2a04-4109-a5fe-fdff6f263772",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795496220274
+      },
+      {
+        "executionId": "a5139a24-2a04-4109-a5fe-fdff6f263772",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795496225576
+      },
+      {
+        "executionId": "402735e9-5d5a-4a11-9109-a9f677599467",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795496494975
+      },
+      {
+        "executionId": "402735e9-5d5a-4a11-9109-a9f677599467",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795496495077
+      },
+      {
+        "executionId": "402735e9-5d5a-4a11-9109-a9f677599467",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795496523606
+      }
+    ],
+    "20.1 Replace the console's bottom control panel with a key bar and a controls popup": [
+      {
+        "executionId": "402735e9-5d5a-4a11-9109-a9f677599467",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795496495113
+      },
+      {
+        "executionId": "402735e9-5d5a-4a11-9109-a9f677599467",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795496529343
+      },
+      {
+        "executionId": "763d8640-29f1-449e-94c5-c1e89b602594",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795497197226
+      }
+    ],
+    "19. Faster installation media": [
+      {
+        "executionId": "402735e9-5d5a-4a11-9109-a9f677599467",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795496523655
+      }
+    ],
+    "20. Console key bar": [
+      {
+        "executionId": "763d8640-29f1-449e-94c5-c1e89b602594",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795497197287
+      }
+    ],
+    "21.1 Add a trackpad that toggles with the arrow-key set": [
+      {
+        "executionId": "763d8640-29f1-449e-94c5-c1e89b602594",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795497240681
+      },
+      {
+        "executionId": "763d8640-29f1-449e-94c5-c1e89b602594",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795497246061
+      },
+      {
+        "executionId": "763d8640-29f1-449e-94c5-c1e89b602594",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795497388219
+      }
+    ],
+    "21. Console trackpad mode": [
+      {
+        "executionId": "763d8640-29f1-449e-94c5-c1e89b602594",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795497388266
+      }
+    ],
+    "22.1 Add a fullscreen landscape mode to the VM console": [
+      {
+        "executionId": "964fb044-bf79-413f-ba9b-999319270f13",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795501638429
+      },
+      {
+        "executionId": "964fb044-bf79-413f-ba9b-999319270f13",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795501644726
+      },
+      {
+        "executionId": "964fb044-bf79-413f-ba9b-999319270f13",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795501771516
+      }
+    ],
+    "22. Fullscreen landscape console": [
+      {
+        "executionId": "964fb044-bf79-413f-ba9b-999319270f13",
+        "chatSessionId": "sess_545e76e0-1d7c-49f9-803a-eff9046dccfc",
+        "timestamp": 1795501771573
+      }
+    ]
+  }
+}
